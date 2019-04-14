@@ -4,7 +4,7 @@
 ## 配置与使用
 1. 添加依赖
 ```xml
-        <!-- 版本2.1.0.RELEASE -->
+        <!-- SpringBoot版本2.1.0.RELEASE -> SpringSecurity版本5.1.1.RELEASE -->
         <!-- 默认使用formLogin认证方式，较老的版本默认使用httpBasic -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
